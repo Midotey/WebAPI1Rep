@@ -1,0 +1,6 @@
+@GoodnightForFun13_HostAddress = http://localhost:5008
+
+GET {{GoodnightForFun13_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
