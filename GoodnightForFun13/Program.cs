@@ -3,6 +3,7 @@ namespace GoodnightForFun13
 {
     public class Program
     {
+        ///TODO: создать web api TODO лист - заметки и папки, св€зи, ху€зи и пр.
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
